@@ -16,7 +16,7 @@ The Field Ops team is magical, and they can help with just about any licensing, 
 - [ ] Run a report in SFDC to show all accounts assigned to you (SFDC>Accounts>My Accounts).  Compare this to the list from your manager.  If there are any discrepancies ask your manager to have them fixed, i.e. change account owner in SFDC.
 - [ ] Look at [example Territory Plans](https://github.com/orgs/github/projects/4551/views/1?visibleFields=%5B%22Title%22%2C106736%2C106737%2C106738%2C106740%2C106741%2C106742%2C106744%2C106745%2C106747%2C106748%2C106755%2C106756%2C106863%5D) in GitHub and find one you like, or modify an existing one.  
 - [ ] Prioritize and organize accounts - Tier A, B, C.  Tier A is where you'll spend the majority of your time, represents significant revenue growth potential, the customer's approach to sw development aligns with GitHub's value drivers, etc.  Tier C are accounts that you'll mostly operate in reactive mode.  
-- [ ] For your A and B accounts, capture when the next renewal date is (direct or MSFT EA) to understand if you have any near-term opportunity to upgrade a renewal.  
+- [1] For your A and B accounts, capture when the next renewal date is (direct or MSFT EA) to understand if you have any near-term opportunity to upgrade a renewal.  
 - [ ] Identify GHAS accounts and whitespace across your territory.  
 - [ ] Other things that are helpful to capture for each account - ARR, is the customer on GHES, GHEC, or hybrid? how many total developers? any newly acquired companies to onboard to GH?
 
